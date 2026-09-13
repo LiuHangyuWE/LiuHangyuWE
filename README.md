@@ -1,6 +1,16 @@
-# 开源贡献
+# 开源项目与贡献
 
-## [ClaudeViewer](https://github.com/crownleo/ClaudeViewer)
+## [Vocabulary-constrained reading](https://github.com/LiuHangyuWE/vocabulary-constrained-reading) · 我的项目
+
+我发布的英语阅读 Agent Skill，根据学习者已有词汇表调整英文原文，以尽可能小的改动减少陌生词汇负担。
+
+- **保留真实句法**：重点调整生词，尽量保留原文的长句、从句结构、信息和语气；词汇已知的句子默认不改。
+- **按个人词表适配**：支持用户提供的词汇列表与配置，结合上下文选择自然的替换表达，并提供单独的改写审阅流程。
+- **可复用的 Skill 包**：提供使用说明、示例、可选的词表处理工具和测试，以及中英文文档。
+
+使用与安装见[中文文档](https://github.com/LiuHangyuWE/vocabulary-constrained-reading/blob/main/README.zh-CN.md)。
+
+## [ClaudeViewer](https://github.com/crownleo/ClaudeViewer) · 参与贡献
 
 用于在本地离线查看和管理 Claude 导出记录的开源工具。
 
